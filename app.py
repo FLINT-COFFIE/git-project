@@ -2,4 +2,4 @@ def greet(name):
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
-    print(greet("Captain Flint - Feature Branch"))
+    print(greet("Captain Flint - Conflict Branch"))
