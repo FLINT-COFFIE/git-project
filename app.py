@@ -2,5 +2,4 @@ def greet(name):
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
-    print(greet("Captain Flint - Main Branch"))
-    
+    print(greet("Captain Flint - Revert Practice"))
